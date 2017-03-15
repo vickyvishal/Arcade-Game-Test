@@ -7,4 +7,4 @@ Play the game here! [link](https://vickyvishal.github.io/Classic-Arcade/)
 To cross the street by dodging bugs
 ## How to Play
 > * Use the arrow keys to move the player around the board.
-> * Watch out for the bug enemies! If you hit one of these, you'll lose a life. If you lifes though!
+> * Watch out for the bug enemies! If you hit one of these, you'll lose a life. You have lives though! watch out for heart shaped icon!
